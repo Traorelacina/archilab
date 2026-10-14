@@ -438,7 +438,7 @@ function Logo({ size = 40 }: { size?: number }) {
   return (
     <Link to="/" className="mbl-logo" aria-label="ARCHILAB — accueil">
       <img
-        src="/images/Fichier 6.PNG"
+        src="/images/Fichier 8.PNG"
         alt="ARCHILAB"
         style={{ height: size, width: 'auto' }}
       />
